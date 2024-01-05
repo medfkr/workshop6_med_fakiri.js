@@ -34,10 +34,10 @@ var models = [
         info: 'hard_drive, Lv. 80, HP 100/100',
     },
     {
-        url: './assets/dragonite/scene.gltf',
+        url: './assets/robot_shark/scene.gltf',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
+        info: 'robot_shark, Lv. 99, HP 150/150',
     },
 ];
 
