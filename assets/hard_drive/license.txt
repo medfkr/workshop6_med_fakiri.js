@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hard Drive
+* source:	https://sketchfab.com/3d-models/hard-drive-946666a390b44c90901e7dd07fb509a5
+* author:	Jamoues (https://sketchfab.com/Jamoues)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hard Drive" (https://sketchfab.com/3d-models/hard-drive-946666a390b44c90901e7dd07fb509a5) by Jamoues (https://sketchfab.com/Jamoues) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
