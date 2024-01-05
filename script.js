@@ -28,10 +28,10 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/hard_drive/scene.gltf',
+        url: './assets/tiger/scene.gltf',
         scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
-        info: 'hard_drive, Lv. 80, HP 100/100',
+        info: 'tiger, Lv. 80, HP 100/100',
     },
     {
         url: './assets/robot_shark/scene.gltf',
