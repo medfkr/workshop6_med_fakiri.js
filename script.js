@@ -23,7 +23,7 @@ function staticLoadPlaces() {
 var models = [
     {
         url: './assets/robot_animated/scene.gltf',
-        scale: '0.5 0.5 0.5',
+        scale: '0.5 0.5 0.3',
         info: 'robot_animated, Lv. 5, HP 10/10',
         rotation: '0 180 0',
     },
